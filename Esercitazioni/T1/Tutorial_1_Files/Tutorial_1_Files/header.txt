@@ -1,0 +1,5 @@
+InputCenter	0.0
+XDelta	62.5e-9
+XUnit	Sec
+YUnit	V
+Y
